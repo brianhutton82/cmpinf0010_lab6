@@ -3,6 +3,7 @@
 ### Group Members:
 - Brian Hutton
 - Langston McArthur
+- Aziz Bohra
 
 Our program asks the user for their `name`, as well as the `number of iterations` they would like. Then, for each iteration, it concatenates the name to itself a number of times equal to the current iteration. Lastly, it prints the name to the console.
 
