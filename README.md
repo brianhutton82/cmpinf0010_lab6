@@ -27,6 +27,9 @@ If you wish to contribute to this project please directly message the Administra
 In order to contribute to this project, you will have to fork and clone this repo.
 For more information regarding these procedures checkout this [Data School](https://www.dataschool.io/how-to-contribute-on-github/) link.
 
+## Miscellany
+The reason for choosing the MIT license was that it gives users express permission to reuse the code for any purpose, as long as the users include the original copy of the MIT license in the distribution. It is one of the most simple open source license agreements, and because of its open language, it serves both – the developers who feel GNU GPL licenses are too liberal and those who believe all software should become proprietary – pretty well. 
+
 ## Usage
 
 ~~!!! Please add USAGE INFO HERE !!!~~~
