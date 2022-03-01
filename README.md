@@ -28,7 +28,7 @@ In order to contribute to this project, you will have to fork and clone this rep
 For more information regarding these procedures checkout this [Data School](https://www.dataschool.io/how-to-contribute-on-github/) link.
 
 ## Miscellany
-The reason for choosing the MIT license was that it gives users express permission to reuse the code for any purpose, as long as the users include the original copy of the MIT license in the distribution. It is one of the most simple open source license agreements, and because of its open language, it serves both – the developers who feel GNU GPL licenses are too liberal and those who believe all software should become proprietary – pretty well. 
+The reason for choosing the MIT license was that it gives users express permission to reuse the code for any purpose, as long as the users include the original copy of the MIT license in the distribution. It is one of the most simple open source license agreements, and because of its open language, it serves both – the developers who feel GNU GPL licenses are too liberal and those who believe all software should become proprietary – pretty well. Our reasoning for the current Code of Conduct, is that since our code can be openly used for any purpose, we only want to allow it to be used in a positive manner. Any attempt to use the code in a demeaning way, or one that causes harm or discomfort to other people, directly contrasts our intentions, and is strictly prohibitied. We would like to be inclusive of all people and spread positivity rather than hate, and we expect users of our code to follow the same principle.
 
 ## Usage
 
